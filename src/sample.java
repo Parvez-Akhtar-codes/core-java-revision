@@ -7,6 +7,7 @@ class methodsonly{
 
 
 
+
 public class sample {
     public static void main(String[] args) {
         methodsonly mo = new methodsonly();
